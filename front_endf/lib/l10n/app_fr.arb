@@ -1,0 +1,220 @@
+{
+  "language": "Francais",
+
+  "helloWorld": "Hello World!",
+
+  "hello": "Hello {username}",
+  "@hello": {
+    "description": "A welcome message",
+    "placeholders": {
+      "username": {
+        "type": "String"
+      }
+    }
+  },
+  "addOffer": "Add Offer",
+
+  "price": "Price",
+
+  "title": "Title",
+
+  "plz_enter_price": "Please enter a valid price",
+
+  "plz_enter_email": "Veuillez entrer un email valide",
+
+  "enter_email": "Enter votre email",
+
+  "plz_enter_password": "Veuillez entrer un mot de passe valide ",
+  "enter_password": "Tapez votre mot de passe",
+
+  "add": "Ajouter",
+
+  "hose": "house",
+
+  "tiger": "Tiger",
+
+
+
+
+  "login": "Connexion",
+  "login_agency": "Se Connecter en tant qu'agence",
+  "login_client": "Se Connecter en tant que client",
+
+
+
+  "welcome_back": "Content de te revoir",
+  "dont_have_account": "Vous n'avez pas de compte ?",
+  "register": "S'inscrire",
+  "sign_in": "se connecter",
+
+  "sign_in_as_agency": "Se Connecter en tant qu'agence",
+  "sign_up_as_client": "Se Connecter en tant que client",
+
+  "sign_up": "S'inscrire",
+  "sign_up_as_agency": "S'inscrire en tant que agence",
+  "sign_up_as_client": "S'inscrire en tant que client",
+
+
+  "name": "Entrer votre Nom",
+  "plz_enter_name": "Veuillez entrer un nom valide ",
+  "already_have_account": "Vous avez déjà un compte?",
+
+
+
+
+
+
+
+
+
+
+  "agency": "Agence",
+
+  "client": "Client",
+
+
+  "account": "Compte",
+
+
+  "my_account": "Mon compte",
+
+  "notifications": "Notifications",
+
+
+  "settings": "paramètres",
+
+
+  "log_out": "Déconnexion",
+
+
+  "help_center": "Centre d'aide",
+
+
+  "address": "adresse",
+
+
+  "phone_number": "Numéro de téléphone",
+
+
+  "bedrooms": "Chambres",
+
+
+  "bathrooms": "Salles de bain",
+
+
+  "area": "Surface",
+
+
+  "kitchen": "Cuisine",
+
+
+  "description": "Description",
+
+
+  "garage": "Garage",
+
+
+  "add_images": "Ajouter des images",
+
+
+  "submit": "Envoyer",
+
+
+  "no_img_selected": "Aucune image sélectionnée.",
+
+
+  "close": "Fermer",
+
+
+  "edit": "Éditer",
+
+
+  "delete": "Supprimer",
+
+
+  "edit_post": "Modifier la publication",
+
+
+  "house_info": "Informations sur la maison",
+
+
+  "location": "Localisation",
+
+
+  "double_tap_to_open": "Tapez deux fois pour ouvrir",
+
+
+  "call": "Téléphoner",
+
+
+  "home_page": "page d'accueil",
+
+
+  "chat": "Conversation",
+
+  "profile": "Profil",
+
+
+  "confirm_pass": "Confirmez le mot de passe",
+
+  "confirmed_pass_dont_match": "Le mot de passe confirmé ne correspond pas",
+
+  "require_6car": "Nécessite au moins 6 caractères",
+
+
+
+  "skip": "Passer",
+
+  "next": "Suivant",
+
+  "get_started": "Démarrer",
+
+
+  "welcome_to_immobilia": "Bienvenue chez IMMOBILIA",
+
+  "onboard_we_make": "Nous facilitons la prochaine étape vers l'accession à la propriété",
+
+  "buy_property": "Acheter une propriété",
+
+  "sell_property": "Vendre une une propriété",
+
+  "rent_property": "Louez une propriété",
+
+  "onboard_buy": "Trouvez votre place avec une expérience photo immersive et la plupart des annonces, y compris des choses que vous ne trouverez nulle part ailleurs",
+
+  "onboard_sell": "Quel que soit le chemin que vous empruntez pour vendre votre propriété, nous pouvons vous aider à réussir votre vente",
+
+  "onboard_rent": "nous créons une expérience en ligne transparente, du magasinage sur le plus grand réseau de location, à la demande, au paiement du loyer",
+
+  "find_tour_take": "Trouvez-le. Visitez-le. Prends-le",
+
+  "favorite": "favorite",
+  "terms": "Conditions d'utilisation | Politique de confidentialité",
+
+
+
+
+   "add_new_offer": "Ajouter une nouvelle offre",
+   "agency_informations": "Informations de l'agence",
+   "offer_informations": "Informations sur l'offre",
+   "address": "Adresse",
+   "go_to_map": "Aller sur Google Map",
+"latitude": "latitude",
+  "longitude": "longitude",
+   "close": "Fermer",
+   "loading": "Chargement en cours ...",
+  "images": "Images",
+  "cancel": "Annuler",
+  "delete": "Effacer",
+  "delete_offer": "Supprimer l'offre",
+   "name_agence": "Nom d'agence",
+    "would_you_like":"Voulez-vous continuer à supprimer l'offre ?",
+     "offers": "Offres",
+      "my_offers": "Mes offres",
+      "add_your_name": "Ajoutez votre nom",
+       "add_your_comment": "Ajoutez votre commentaire",
+       "comment": "Commentaire",
+       "call": "Téléphoner"
+
+
+}

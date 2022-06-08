@@ -1,0 +1,25 @@
+ $attrs = $request->validate([
+    'numberphone' => 'required|string',
+    'description' => 'required|string',
+    'addres' => 'required|string',
+    'area' => 'required|string',
+    'price' => 'required|string',
+    'kitchen' => 'required|string',
+    'garage' => 'required|string',
+    'bedrooms' => 'required|string',
+]);
+
+$image = $this->saveImage($request->image, 'posts');
+
+$offer = Offer::create([
+    'numberphone' => $attrs['numberphone'],
+    'description' => $attrs['description'],
+    'addres' => $attrs['addres'],
+    'area' => $attrs['area'],
+    'price' => $attrs['price'],
+    'kitchen' => $attrs['kitchen'],
+    'garage' => $attrs['garage'],
+    'bedrooms' => $attrs['bedrooms'],
+    'user_id' => auth()->user()->id,
+    'image' => $image
+]);

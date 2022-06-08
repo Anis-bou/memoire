@@ -1,0 +1,481 @@
+{
+    "language": "English",
+    "@language":{
+      "description": "The current Language"
+    },
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+      "description": "A programmer greeting"
+    },
+    "hello": "Hello {username}",
+    "@hello": {
+      "description": "A welcome message",
+      "placeholders": {
+         "username": {
+           "type": "String"
+         }
+      }
+    },
+  "addOffer": "Add Offer",
+  "@addOffer":{
+    "description": "to add an offer"
+  },
+  "price": "Price",
+  "@price":{
+    "description": " to add the price"
+  },
+  "title": "Title",
+  "@title":{
+    "description": " to add the title"
+  },
+  "plz_enter_price": "Please enter a valid price",
+  "@plz_enter_price":{
+    "description": "if the price is null"
+  },
+  "plz_enter_email": "Please enter a valid email",
+  "@plz_enter_email":{
+    "description": "if the email is null"
+  },
+  "enter_email": "Enter your email",
+  "@enter_email":{
+    "description": "to add the email"
+  },
+  "plz_enter_password": "Please enter a valid password",
+  "@plz_enter_password":{
+    "description": "if the password is null"
+  },
+
+  "enter_password": "enter your password",
+  "@enter_password":{
+    "description": "enter password"
+  },
+
+  "add": "ADD",
+  "@add":{
+    "description": "to submit"
+  },
+  "hose": "house",
+  "@hose":{
+    "description": "hose"
+  },
+  "tiger": "Tiger",
+  "@tiger":{
+    "description": "tiger"
+  },
+
+  "login": "Login",
+  "@login":{
+    "description": "Login"
+  },
+
+
+  "login_agency": "Login As Agencyَ",
+  "@login_agency":{
+    "description": "Agency Login"
+  },
+  "login_client": "Login As Client",
+  "@login_client":{
+    "description": "Client Login"
+  },
+
+  "welcome_back": "Welcome Back",
+  "@welcome":{
+    "description": "welcome"
+  },
+  "dont_have_account": "Don't have an account ?",
+  "@dont_have_account":{
+    "description": "dont have an account"
+  },
+  "already_have_account": "Already have an account?",
+  "@already_have_account":{
+    "description": "Already have an account?"
+  },
+  "register": "Register",
+  "@register":{
+    "description": "Register"
+  },
+  "sign_in": "Sign In",
+  "@sign_in":{
+    "description": "sign in"
+  },
+  "sign_in_as_agency": "Sign In as Agency",
+  "@sign_in_as_agency":{
+    "description": "Sign In as Agency"
+  },
+  "sign_in_as_client": "Sign In as Client",
+  "@sign_in_as_client":{
+    "description": "Sign In as Client"
+  },
+
+  "sign_up": "Sign Up",
+  "@sign_up":{
+    "description": "sign up"
+  },
+  "sign_up_as_agency": "Sign Up as Agency",
+  "@sign_up_as_agency":{
+    "description": "Sign up as Agency"
+  },
+  "sign_up_as_client": "Sign Up as Client",
+  "@sign_up_as_client":{
+    "description": "Sign up as Client"
+  },
+
+
+
+  "name": "Enter your Name",
+  "@name":{
+    "description": "name"
+  },
+  "plz_enter_name": "Please enter a valid name",
+  "@plz_enter_name":{
+    "description": "if the name is null"
+  },
+
+
+
+
+
+
+
+
+
+
+  "agency": "Agency",
+  "@agency":{
+    "description": "agency"
+  },
+  "client": "Client",
+  "@client":{
+    "description": "client"
+  },
+
+  "account": "Account",
+  "@account":{
+    "description": "account"
+  },
+
+  "my_account": "My Account",
+  "@my_account":{
+    "description": "my account"
+  },
+
+  "notifications": "Notifications",
+  "@notifications":{
+    "description": "notifications"
+  },
+
+  "settings": "Settings",
+  "@settings":{
+    "description": "Settings"
+  },
+
+  "log_out": "Log Out",
+  "@log_out":{
+    "description": "Log Out"
+  },
+
+  "help_center": "Help Center",
+  "@help_center":{
+    "description": "Help Center"
+  },
+
+  "address": "address",
+  "@address":{
+    "description": "address"
+  },
+
+  "phone_number": "Phone Number",
+  "@phone_number":{
+    "description": "Phone Number"
+  },
+
+  "bedrooms": "Bedrooms",
+  "@bedrooms":{
+    "description": "Bedrooms"
+  },
+
+  "bathrooms": "Bathrooms",
+  "@bathrooms":{
+    "description": "Bathrooms"
+  },
+
+  "area": "Area",
+  "@area":{
+    "description": "Area"
+  },
+
+  "kitchen": "Kitchen",
+  "@kitchen":{
+    "description": "Kitchen"
+  },
+
+
+
+  "description": "Description",
+  "@description":{
+    "description": "Description"
+  },
+
+  "garage": "Garage",
+  "@garage":{
+    "description": "Garage"
+  },
+
+  "add_images": "Add Images",
+  "@add_images":{
+    "description": "Add Images"
+  },
+
+  "submit": "Submit",
+  "@submit":{
+    "description": "Submit"
+  },
+
+  "no_img_selected": "No image selected.",
+  "@no_img_selected":{
+    "description": "No image selected."
+  },
+
+  "close": "Close",
+  "@close":{
+    "description": "Close"
+  },
+
+  "edit": "Edit",
+  "@edit":{
+    "description": "Edit"
+  },
+
+  "delete": "Delete",
+  "@delete":{
+    "description": "Delete"
+  },
+
+  "edit_post": "Edit post",
+  "@edit_post":{
+    "description": "Edit post"
+  },
+
+  "house_info": "House Information",
+  "@house_info":{
+    "description": "House Information"
+  },
+
+  "location": "Location",
+  "@location":{
+    "description": "Location"
+  },
+
+  "double_tap_to_open": "Double tap to open",
+  "@double_tap_to_open":{
+    "description": "double tap to open"
+  },
+
+  "call": "Call",
+  "@call":{
+    "description": "Call"
+  },
+
+  "home_page": "Home",
+  "@home":{
+    "description": "home"
+  },
+
+  "chat": "Chat",
+  "@chat":{
+    "description": "chat"
+  },
+
+  "profile": "Profile",
+  "@profile":{
+    "description": "Profile"
+  },
+
+  "confirm_pass": "Confirm Password",
+  "@confirm_pass":{
+    "description": "Confirm Password"
+  },
+
+  "confirmed_pass_dont_match": "Confirmed password does not match",
+  "@confirmed_pass_dont_match":{
+    "description": "Confirm password does not match"
+  },
+
+  "require_6car": "Required at least 6 chars",
+  "@require_6car":{
+    "description": "Required at least 6 chars"
+  },
+
+
+  "skip": "Skip",
+  "@skip":{
+    "description": "skip"
+  },
+
+  "next": "Next",
+  "@next":{
+    "description": "next"
+  },
+
+
+  "get_started": "Get Started",
+  "@get_started":{
+    "description": "get started"
+  },
+
+  "welcome_to_immobilia": "Welcome to IMMOBILIA",
+  "@welcome_to_immobilia":{
+    "description": "welcome text for on board screen"
+  },
+
+  "onboard_we_make": "We make it easy to take the next step toward property ownership",
+  "@onboard_we_make":{
+    "description": "text for the fist page of onboard screen"
+  },
+
+  "buy_property": "Buy a property",
+  "@buy_property":{
+    "description": "text for on board screen"
+  },
+
+  "sell_property": "Sell a property",
+  "@sell_home":{
+    "description": "text for on board screen"
+  },
+  "rent_property": "Rent a property",
+  "@rent_property":{
+    "description": "text for on board screen"
+  },
+
+  "onboard_buy": "Find your place with an immersive photo experience and the most listings, including things you won't find anywhere else",
+  "@onboard_buy":{
+    "description": "text for on board screen"
+  },
+
+  "onboard_sell": "No matter what path you take to sell your property, we can help you navigate a successful sale",
+  "@onboard_sell":{
+    "description": "text for on board screen"
+  },
+
+  "onboard_rent": "we are creating a seamless online experience from shopping on the largest rental network,to applying,to paying rent",
+  "@onboard_rent":{
+    "description": "text for on board screen"
+  },
+
+  "find_tour_take": "Find it.  Tour it. Take it",
+  "@find_tour_take":{
+    "description": "Title for on board screen"
+  },
+
+  "favourite": "Favourite",
+  "@favourite":{
+    "description": "favourite"
+  },
+  "terms": "Terms of Service | Privacy Policy",
+  "@terms":{
+    "description": "Terms of Service | Privacy Policy"
+  },
+"add_new_offer": "Add new Offer",
+  "@add_new_offer":{
+    "description": "Add new Offer"
+  },
+
+  "agency_informations": "Agency information",
+  "@agency_informations":{
+    "description": "Agency information"
+  },
+  
+  "offer_informations": "Offer information",
+  "@offer_informations":{
+    "description": "Offer information"
+  },
+  "adress": "Adress",
+  "@adress":{
+    "description": "Adress"
+  },
+   "go_to_map": "Go To Google Map",
+  "@go_to_map":{
+    "description": "Go To Google Map"
+  },
+"latitude": "latitude",
+  "@latitude":{
+    "description": "latitude"
+  },
+  "longitude": "longitude",
+  "@longitude":{
+    "description": "longitude"
+  },
+
+   "close": "Close",
+  "@close":{
+    "description": "Close"
+  },
+
+
+
+   "loading": "Loading ...",
+  "@loading":{
+    "description": "loading"
+  },
+
+  "images": "Images",
+  "@image":{
+    "description": "Images"
+  },
+
+  "cancel": "Cancel",
+  "@cancel":{
+    "description": "Cancel"
+  },
+
+  "delete": "Delete",
+  "@delete":{
+    "description": "Delete"
+  },
+
+  "delete_offer": "Delete Offer",
+  "@delete_offer":{
+    "description": "Delete Offer"
+  },
+  "name_agence": "Name Agence",
+  "@name_agence":{
+    "description": "Name Agence"
+  },
+  "would_you_like": "Would you like to continue delete offer?",
+  "@would_you_like":{
+    "description": "Would you like to continue delete offer?"
+  },
+   "offers": "Offers",
+  "@offers":{
+    "description": "Offers"
+  }, 
+  "my_offers": "My Offers",
+  "@my_offers":{
+    "description": "My Offers"
+  },
+  "add_your_name": "Add your name",
+  "@add_your_name":{
+    "description": "Add your name"
+  },
+   "add_your_comment": "Add your comment",
+  "@add_your_comment":{
+    "description": "Add your comment"
+  },
+  "comment": "Comment",
+  "@comment":{
+    "description": "Comment"
+  },
+   "call": "Call",
+  "@call":{
+    "description": "Comment"
+  }
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+}
